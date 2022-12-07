@@ -11,6 +11,6 @@ public class TC001 {
 
         //negative testing
 
-        //cmmit
+        //positive testing
     }
 }
